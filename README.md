@@ -19,3 +19,5 @@ Category 2: Data Display
 
 
 (Tableau) Tableau to chart Excel data A.  Bar Chart for customers B.  Line Chart C. Scatter Chart D. Comparison Chart
+
+https://public.tableau.com/views/VerizonAWSTeresaHawkins/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link
