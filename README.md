@@ -17,9 +17,8 @@ Category 2: Data Display
 (Matplot Colab) Matplot scatter diagram A. Excel data files scatter diagram of B. Histogram C. Correlation Charts D. Heat Map
 
 
-(Tableau) Tableau to chart Excel data A.  Bar Chart for customers B.  Line Chart C. Scatter Chart D. Comparison Chart
+(Tableau) Tableau to chart Excel data A.  Bar Chart for customers B.  Line Chart C. Comparison Chart
 
-https://public.tableau.com/views/VerizonAWSTeresaHawkins/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
 https://public.tableau.com/views/VerizonAWSDataTeresaHawkins/InternetServiceChurnandTenure?:language=en-US&:display_count=n&:origin=viz_share_link
