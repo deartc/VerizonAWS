@@ -6,7 +6,7 @@ Verizon is an Internet, phone, and TV provider that has one of the best retentio
  
  This project compares Verizon customer data. To run my project do the following: Clone github.com/deartc/VerizonAWS. To run the Colab portion which lists the  data of my project, go to copyofVerizonAWS.ipynb and use the Colab link to open up in Colab. Once open use runtime tab then the option "run all" to update data. Answer yes when prompted by this warning: "This notebook was not authored by Google." If you wish to alter or use file follow the instructions listed. "Please make a copy of this notebook before using it. Go to Files > Save a Copy in Drive" I used the following imported libraries: pandas, matplotlib,sns, re datetime, datasets, and data_table in the project.
 
-Tableau can be accessed by clicking on the Tableau link. The four charts can then be accessed by clicking on the tabs at the top.
+Tableau can be accessed by clicking on the Tableau link. The three charts can then be accessed by clicking on the tabs at the top.
 
 Category 1: Utilize External Data:
 
