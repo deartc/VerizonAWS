@@ -43,6 +43,7 @@ Sharing your results:      Initial results were displayed in Tableau and Matplot
 
 Future steps:             1. Refine data. Possibly do more cleaning and analysis using R or SQL 
                           2. Use machine learning. Possibly  include AWS Sage Maker to determine train/predict models.
+                          3. Determine marketing plan.  I am studying human centered marketing.  
 
 
      
