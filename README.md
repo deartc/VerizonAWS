@@ -25,21 +25,24 @@ Category 2: Data Display
 
 https://public.tableau.com/views/TERESAHAWKINSVERIZONPROJECT/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
+
+
+
 Status of project and future steps:
 
-Defining the question:   This is determining the churn rate of Verizon internet customers
+Defining the question:   This is determining the churn rate of Verizon internet customers.
 
-Collecting the data:      The Verizon data was found and dataset included in Github repository
+Collecting the data:      The Verizon data was found and dataset included in Github repository.
 
-Cleaning the data:        The data was cleaned (more cleaning may be necesssary)
+Cleaning the data:        The data was cleaned (more cleaning may be necesssary).
 
-Analyzing the data:       The data was initially analyzed (more analysis may be necessary
+Analyzing the data:       The data was initially analyzed (more analysis may be necessary).
 
-Sharing your results:      Initial results were displayed in Tableau and Matplot 
+Sharing your results:      Initial results were displayed in Tableau and Matplot. 
 
 
 Future steps:             1. Refine data. Possibly do more cleaning and analysis using R or SQL 
-                          2.  Use machine learning to further analyze data.  Possibly ways include AWS Sage Maker or Azure  Machine Leanining (ML)
+                          2. Use machine learning. Possibly  include AWS Sage Maker to determine train/predict models.
 
 
      
