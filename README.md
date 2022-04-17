@@ -23,10 +23,6 @@ Category 2: Data Display
 
 
 
-https://public.tableau.com/views/VerizonAWSDataTeresaHawkins/InternetServiceChurnandTenure?:language=en-US&:display_count=n&:origin=viz_share_link
-
-
-
 https://public.tableau.com/views/TERESAHAWKINSVERIZONPROJECT/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Status of project and future steps:
