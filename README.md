@@ -29,7 +29,7 @@ https://public.tableau.com/views/VerizonAWSDataTeresaHawkins/InternetServiceChur
 
 https://public.tableau.com/views/TERESAHAWKINSVERIZONPROJECT/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
-Status of project:
+Status of project and future steps:
 Defining the question   This is determining the churn rate of Verizon internet customers
 Collecting the data      The Verizon data was found and dataset included in Github repository
 Cleaning the data        The data was cleaned (more cleaning may be necesssary)
