@@ -48,7 +48,7 @@ Analyzing the data:       The data was initially analyzed (more analysis may be 
 Sharing your results:      Initial results were displayed in Tableau and Matplot. 
 
 
-Future steps:             1. Refine data. Possibly do more cleaning and analysis using SQL 
+Future steps:             1. Refine data. Possibly do more cleaning and analysis using SQL. 
                           2. Use machine learning. Possibly  include AWS Sage Maker to determine train/predict models.
                           3. Determine marketing plan based on the analysis.  Human centered marketing will be addressed.  
 
