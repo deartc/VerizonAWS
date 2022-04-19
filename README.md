@@ -5,7 +5,7 @@ Background and Objectives:
 VerizonAWS and Verizon-Data-Science-Project are two projects tha AWSt are using the same Verizon  data. 
 Each will be done with the same data but differ on the following:
 
-Microsoft Bi (Verizon-Data-Science-Project)                       Tableau (VerizonAWS)     
+Microsoft Bi (Verizon-Data-Science-Project).                       Tableau (VerizonAWS)     
 Azure Machine Learning/ML( Verizon-Data-Science-Project).          Amazon Sage Maker(VerizonAWS)
 
   
