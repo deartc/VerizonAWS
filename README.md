@@ -2,7 +2,7 @@
 
 Background and Objectives: 
 
-VerizonAWS and Verizon-Data-Science-Project are two projects tha AWSt are using the same Verizon  data. 
+VerizonAWS and Verizon-Data-Science-Project are two projects that are using the same Verizon  data. 
 Each will be done with the same data but differ on the following:
 
 Microsoft Bi (Verizon-Data-Science-Project).                       Tableau (VerizonAWS)     
