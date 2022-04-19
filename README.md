@@ -2,7 +2,10 @@
 
 Background and Objectives: 
 
-VerizonAWS is one of the two projects I am doing with  Verizon internet churn data. Each will be done with the same data but different programming languages.   R for  Verizon-Data-Science-Project, Python for VerizonAWS.  I will use Kaggle for the  Verizon-Data-Science-Project and Colab for VerizonAWS. Pycaret for VerizonAWS and possibly Sklearn for the Verizon-Data-Science-Project.  AWS SageMaker for VerizonAWS and Azure Machine Learning (ML) for the  Verizon-Data-Science-Project. Microsoft Bi will be used for visualization on Verizon-Data-Science-Project while Tableau will be use for VerizonAWS. 
+VerizonAWS and Verizon-Data-Science-Project are two projects that are using the same Verizon  data. 
+Each will be done with the same data but differ on the following:
+ Visualization - Microsoft Bi - Verizon-Data-Science-Project                           Tableau - VerizonAWS.     
+ Machine Learning- Azure Machine Learning (ML) - Verizon-Data-Science-Project.         Amazon Sage Maker - VerizonAWS
 
   Verizon is an Internet, phone, and TV provider that has one of the best retention rates of customers (churn) in the world. This public source  data set  has recorded information about customers at the time of their contract renewal. This project analyzes data from the  marketing analytics team to examine what might lead to a customer deciding not to renew their service.  
   This Verizon project has several objectives:  The first objective is focusing first on customers that use Verizon for their Internet service and what  makes these customers more likely to not renew their service.  The second objective is identify the patterns that is found in their renewal service. The next objective is to make a recommendation on a marketing campaign around the patterns  found.
