@@ -6,7 +6,7 @@ VerizonAWS and VerizonAzure are two projects that are using the same Verizon  da
 Each will be done with the same data but differ on the following:
 
 Visualization:
-Microsoft Bi (VerizonAzure).                       Tableau (VerizonAWS)     
+Microsoft BI (VerizonAzure).                       Tableau (VerizonAWS)     
 
 
 Advanced analysis of data:
