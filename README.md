@@ -2,15 +2,15 @@
 
 Background and Objectives: 
 
-VerizonAWS and Verizon-Data-Science-Project are two projects that are using the same Verizon  data. 
+VerizonAWS and VerizonAzure are two projects that are using the same Verizon  data. 
 Each will be done with the same data but differ on the following:
 
 Visualization:
-Microsoft Bi (Verizon-Data-Science-Project).                       Tableau (VerizonAWS)     
+Microsoft Bi (VerizonAzure).                       Tableau (VerizonAWS)     
 
 
 Advanced analysis of data:
-Azure Machine Learning/ML( Verizon-Data-Science-Project).          Amazon Sage Maker(VerizonAWS)
+Azure Machine Learning/ML( VerizonAzure).          Amazon Sage Maker(VerizonAWS)
 
   
   Verizon is an Internet, phone, and TV provider that has one of the best retention rates of customers (churn) in the world. This public source  data set  has recorded information about customers at the time of their contract renewal. This project analyzes data from the  marketing analytics team to examine what might lead to a customer deciding not to renew their service.  
