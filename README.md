@@ -41,7 +41,7 @@ https://public.tableau.com/views/TERESAHAWKINSVERIZONPROJECT/Dashboard1?:languag
 
 Status of project and future steps:
 
-Defining the question:   This is determining the churn rate of Verizon internet customers.
+Defining the question:  What  makes these customers more likely to not renew their service and to identify the patterns and then recommend  a marketing campaign?                             
 
 Collecting the data:      The Verizon data was found and dataset included in Github repository.
 
@@ -54,7 +54,7 @@ Sharing your results:      Initial results were displayed in Tableau and Matplot
 
 Future steps:             1. Refine data. Possibly do more cleaning and analysis using SQL. 
                           2. Use machine learning. Possibly  include AWS SageMaker to determine train/predict models.
-                          3. Determine marketing plan based on the analysis.  Human centered marketing will be addressed.  
+                          3. Determine marketing plan based on the analysis.  (UX  marketing class and project started in June).  
 
 
      
