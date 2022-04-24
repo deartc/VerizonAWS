@@ -53,8 +53,8 @@ Sharing your results:      Initial results were displayed in Tableau and Matplot
 
 
 Future steps:             1. Refine data. Possibly do more cleaning and analysis using SQL. 
-                          2. Use machine learning. Possibly  include AWS SageMaker to determine train/predict models.
-                          3. Determine marketing plan based on the analysis.  (UX  marketing class and project started in June).  
+                          2. Use machine learning. Possibly  include AWS SageMaker to determine train/predict models  (Start in May, 2022_
+                           3. Determine marketing plan based on the analysis.  (UX  marketing class and project started in June, 2022).  
 
 
      
