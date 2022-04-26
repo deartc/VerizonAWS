@@ -41,7 +41,7 @@ https://public.tableau.com/views/TERESAHAWKINSVERIZONPROJECT/Dashboard1?:languag
 
 Status of project and future steps:
 
-Defining the question:  What  makes these customers more likely to not renew their service and to identify the patterns and then recommend  a marketing campaign?                             
+Defining the question:  What  makes these customers more likely to not renew their service? Identify the patterns and then recommend  a marketing campaign.                            
 
 Collecting the data:      The Verizon data was found and dataset included in Github repository.
 
@@ -53,7 +53,7 @@ Sharing your results:      Initial results were displayed in Tableau and Matplot
 
 
 Future steps:             1. Refine data. Possibly do more cleaning and analysis using SQL. 
-                          2. Use machine learning. Possibly  include AWS SageMaker to determine train/predict models  (Start in May, 2022_
+                          2. Use machine learning. Possibly  include AWS SageMaker to determine train/predict models  (Start in May, 2022.
                           3. Determine marketing plan based on the analysis.  (UX  marketing class and project started in June, 2022).  
 
 
