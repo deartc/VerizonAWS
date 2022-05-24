@@ -23,7 +23,8 @@ Tableau can be accessed by clicking on the Tableau link. The three charts can th
 Category 1: Utilize External Data:
 
 
-Excel data files A. Data file cleaned  B. Statistical analysis of data: Mean, Median, Mode C. Summary of relevant data files listed and analyzed D. Excel data plotted using matplotli.
+Excel data files 
+A. Data file cleaned  B. Statistical analysis of data: Mean, Median, Mode C. Summary of relevant data files listed and analyzed D. Excel data plotted using matplotli.
 
 Category 2: Data Display
 
